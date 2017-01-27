@@ -157,8 +157,8 @@ var track02 = new Track({
 // 	image: 'youtubetrack02.jpg'
 // });
 
-// console.log(track01);
-// console.log(track02);
+console.log(track01);
+console.log(track02);
 
 // console.log(youtubetrack01);
 // console.log(youtubetrack02);
