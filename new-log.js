@@ -9,5 +9,5 @@ var counter = (function(){
 console.log(counter());
 console.log(counter());
 console.log(counter(50));
-console.log(counter());
-console.log(counter());
+// console.log(counter());
+// console.log(counter());
