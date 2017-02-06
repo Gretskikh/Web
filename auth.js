@@ -6,3 +6,5 @@ function logpass(login, password){
 		return 'Login in incorrect';
 	}
 }
+
+logpass(tolik, 123456);
