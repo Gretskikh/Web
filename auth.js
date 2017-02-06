@@ -8,3 +8,4 @@ function logpass(login, password){
 }
 
 logpass(tolik, 123456);
+logpass(mary, 00000);
